@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Callies-MBP.lan 20.6.0 Darwin Kernel Version 20.6.0: Tue Jun 21 20:50:28 PDT 2022; root:xnu-7195.141.32~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.23.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Jun 23 2022 20:07:28)
+CURL:	[/Users/calliexu/opt/anaconda3/bin/curl] curl 7.82.0 (x86_64-apple-darwin13.4.0) libcurl/7.82.0 OpenSSL/1.1.1n zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/usr/local/bin/node] v16.16.0
